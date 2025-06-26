@@ -1,0 +1,10 @@
+
+*.filters
+*.sdf
+.vs/
+*.user
+*.suo
+*.VC.db
+*.ipch
+*.log
+*.zip
